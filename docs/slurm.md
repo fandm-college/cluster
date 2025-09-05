@@ -1,5 +1,5 @@
 ---
-title: Introduction: Slurm job scheduler
+title: Introduction - Slurm job scheduler
 layout: page
 nav_order: 3
 ---
